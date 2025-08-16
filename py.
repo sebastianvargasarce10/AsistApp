@@ -1,9 +1,14 @@
 # registro_usuarios 
-# Sistema de registro de estudiantes, profesores y administradores
+# Sistema de registro para estuaintes
 
-class usuario:
-  def nombre_correo():
-  print("Nombre")
-  print("Correo")
+  def registrar_estudiante():
+**registra la informacion de un estudiante.***
+  estudiantes =[]
+while true:
+  print("Registro de Estudiante":)
+  nombre = input("Nombre:")
+  correo =  input("Correo_Electronico":)
+  try:
+  id_estudiantes = int(input("Id del estudiante: "))
 
 
