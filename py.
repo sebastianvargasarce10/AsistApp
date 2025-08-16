@@ -1,1 +1,9 @@
+# registro_usuarios 
+# Sistema de registro de estudiantes, profesores y administradores
+
+class usuario:
+  def nombre_correo():
+  print("Nombre")
+  print("Correo")
+
 
