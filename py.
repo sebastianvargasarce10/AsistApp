@@ -10,5 +10,13 @@ while true:
   correo =  input("Correo_Electronico":)
   try:
   id_estudiantes = int(input("Id del estudiante: "))
+  except ValueError:
+  print("Id invalido debe ser un número.")
+  continue
+estudiante = {
+  "nombre": nombre,
+  "correo": correo,
+  "id":id_estudiante
+}
 
 
