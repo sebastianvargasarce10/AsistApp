@@ -1,7 +1,6 @@
 # AsistApp
 **Sistema inteligente de asistencia para clases**
 
-
 ## Descripcion
 **AsistApp es una aplicacion movil y web que permite registrar la asistencia para estudiantes de forma rápida, segura y confiable mediante **códigos QR** generados por los docentes. En futuras versiones incluira **reconocimiento facial** y **geolocalización** para validar la asistencia.
 
